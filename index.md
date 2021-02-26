@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
   <p><a href="EQ/index.html" target="iframe_a">Earthquake rapid response</a></p>
